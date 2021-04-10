@@ -134,6 +134,37 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 300;
   letter-spacing: 3px;
 }
+
+/*--
+Join us styles 
+--*/
+#join-us {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#join-us-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#join-us-header > span {
+  font-size: 2.5em;
+}
+
+#join-us-images {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#join-us-images img {
+  display: block;
+  margin: 1em;
+  width: 64px;
+  height: 64px;
+}
 /*--
 	wrapper Start
 --*/
@@ -237,7 +268,7 @@ font header .navbar-default .navbar-nav li a:hover {
   display: block;
   position: relative;
   overflow: visible;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #fff;
