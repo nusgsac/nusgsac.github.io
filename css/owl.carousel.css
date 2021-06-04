@@ -69,3 +69,33 @@
   -ms-transform: translate3d(0,0,0);
 }
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.owli-carousel {
+  list-style: none;
+  padding: 0;
+}
+
+.owli-item:nth-child(2n) {
+  background: #bd0000;
+}
+
+.owli-item img {
+  opacity: 0.75;
+}
+
+.owli-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+i
+

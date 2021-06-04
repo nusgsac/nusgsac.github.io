@@ -32,3 +32,67 @@
 .post-area a:hover {
   color: #0D0017;
 }
+
+
+@keyframes pulsing {
+  0% {text-shadow: 0px 0px 2px rgba(255, 255, 255, 0);}
+  10% {text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.25);}
+  20% {text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.5);}
+  30% {text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.75);}
+  40% {text-shadow: 0px 0px 2px rgba(255, 255, 255, 1);}
+  50% {text-shadow: 0px 0px 2px rgba(255, 255, 255, 1);}
+  60% {text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.75);}
+  70% {text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.5);}
+  80% {text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.25);}
+  90% {text-shadow: 0px 0px 2px rgba(255, 255, 255, 0);}
+}
+
+.custom-list > li {
+  cursor: pointer;
+}
+
+.custom-list > li:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.custom-list-item { 
+  float: left;
+}
+.glowing-circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  background-color: #005a00;
+  position: relative;
+  float: left;
+  margin: 3px 10px 0 0;
+  transition: all 0.4s;
+}
+
+li:hover > .glowing-circle {
+  background-color: #00ba00;
+  box-shadow: 0 0 5px 3px rgba(0, 186, 0, 0.32);
+}
+
+.glowing-circle:after {
+  content: "";
+  width: 30%;
+  height: 10%;
+  border: 4px solid rgba(255, 255, 255, 0.5);
+  position: absolute;
+  border-radius: 50%;
+  top: 10%;
+  right: 3%;
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  transform: rotateZ(45deg);
+}
+
+.custom-list {
+  list-style-type: none;
+  padding: 0;
+}
+
