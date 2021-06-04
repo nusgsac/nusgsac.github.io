@@ -15,7 +15,7 @@ keep_files:
 
 # Site settings
 title: GSAC
-subtitle: "A free HTML5 agency template"
+subtitle: "NUS Graduate Student Association of Computing"
 # TODO: Update url
 url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
