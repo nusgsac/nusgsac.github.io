@@ -122,7 +122,7 @@ Below are the confirmed dates for the upcoming workshops for this semester. Seat
 
 <!-- Insert a better pic of confirmed dates (below) -->
 <figure>
-    <img src="/img/workshop-dates.png" width="70%" height="70%">
+    <img src="/img/career/workshop-dates.png" width="70%" height="70%">
     <!-- <figcaption> .. </figcaption> -->
 </figure>
 
