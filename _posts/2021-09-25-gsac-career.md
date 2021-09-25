@@ -5,7 +5,7 @@ date:   2021-09-25 20:50:50 +0800
 author: Mark Meng
 ---
 
-<iframe width="1268" height="713" src="https://www.youtube.com/embed/kKNlFsmy9iE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1170" height="713" src="https://www.youtube.com/embed/kKNlFsmy9iE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Intro -->
 <!-- To add stuff here -->
