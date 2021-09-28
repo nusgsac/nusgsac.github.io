@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GSAC-CFG: Internship & Job Planning"
+title:  "GSAC Chat Series: Internship & Career Planning with Dr. May Koh, CFG"
 date:   2021-09-25 20:50:50 +0800
 author: Mark Meng
 ---
@@ -25,13 +25,7 @@ Having been an academic researcher myself for over 10 years while serving as a m
  
 <br />
 
-### Q2. With recent challenges from the COVID-19 crisis, how do you view the job market for our graduate students at SoC? 
- 
-Despite the COVID-19, growth of the digital economy has definitely accelerated the hiring in the digital related job roles. But such accelerated hiring comes along with new skill sets required in both tech and non-tech industries. With the focus on advanced manufacturing and innovation, there is a race for non-routine connective jobs as well. Especially, Singapore is Asia's leading city for development with our digital infrastructures and pool of talents. The digital landscape will spread across the government corporation’s institution as well as in the start-ups.
- 
-<br />
-
-### Q3. Sounds like exciting news for SoC students! What are some tech companies / industries that offer jobs for our SoC graduate students? And what kind of opportunities do they offer?
+### Q2. What are some tech companies / industries that offer jobs or internships for our SoC graduate students? And what kind of opportunities do they offer?
 
 <!-- insert image - slide on diverse range of digital capabilities -->
 <figure>
@@ -52,7 +46,7 @@ Based on statistics taken from graduates, a majority of our masters and PhD stud
 
 <br />
 
-### Q4. We notice that attending an industrial internship during postgraduate study has become popular. How do you view this trend? Does CFG provide any help in finding such internships for our students? 
+### Q3. Doing an internship during postgraduate study has become popular. How do you view this trend? Does CFG provide any help in finding internships for our students? 
 
 Taking up an industrial internship is a great way for students to decide if a particular career is a good match to them. During the internship, students can also start to build a professional network that can be a valuable resource during the job search. It is worthy to mention that virtual internships are also becoming more common during this pandemic. 
 
@@ -66,7 +60,7 @@ For students on the MComp General Track, a new program that started in Jan 2021,
 
 <br />
 
-### Q5. Are there any resources provided by CFG for our students to look for an internship? 
+### Q4. Are there any resources provided by CFG for our students to look for an internship? 
  
 Yes, the default channel is NUS TalentConnect job portal for Masters. For PhD candidates, it is usually through the PhD supervisor, self-sourced by the students and very rarely offered via NUS TalentConnect. 
  
@@ -78,7 +72,7 @@ Yes, the default channel is NUS TalentConnect job portal for Masters. For PhD ca
 
 <br />
 
-### Q6. We have many international students among Masters or PhD students at SoC. What do these international students be aware of when applying for paid jobs? 
+### Q5. We have many international students among Masters or PhD students at SoC. What do these international students be aware of when applying for paid jobs? 
  
 These are [recommended guidelines on CFG’s website](https://nus.edu.sg/cfg/students/jobs-internships/internships/vacation-internship-programme) for students who are interested in taking paid internships.
  
@@ -90,7 +84,7 @@ Students can also choose a paid part-time internship for a maximum of 16 hours d
 
 <br />
 
-### Q7. For those who already graduated, how can they look for help in finding full-time jobs or internships? 
+### Q6. For those who already graduated, how can they look for help in finding full-time jobs or internships? 
  
 There are two ways. First one is via the school’s website. They can log onto the _NUS TalentConnect_ job portal or keep a look out for weekly emails on the latest job opportunities. Besides _TalentConnect_, full-time enrolled students can also look for part-time work opportunities within NUS via the _NUS Student Work Scheme_ (NSWS) that aims to encourage NUS students to be self-reliant and to gain working experience on campus. For any administrative queries, they should check with the school admin. 
 
@@ -104,7 +98,7 @@ On the CFG side, I would like to highlight the career support services. For care
 
 <br />
  
-### Q8. Do we have any career fair specifically targeting SoC graduate students? If so, how many career fairs are there per year? 
+### Q7. Do we have any career fair specifically targeting SoC graduate students? If so, how many career fairs are there per year? 
  
 Yes, we do! There are some major upcoming career fairs. There is so-called Internship Day on the _13th of October_ for those who are seeking internship opportunities. The postgraduate career fair this year will be held on _27th of October_, which will be focusing on jobs targeted towards postgraduates, and then there will be this **Career Fest 2022** which will be held in _January 2022_. 
  
@@ -112,7 +106,7 @@ Each career fair will have a series of pre-fair webinars and events to make sure
  
 <br />
 
-### Q9. Can you elaborate more on what our students can expect from the career talks in this upcoming year (AY 2021/2022)? 
+### Q8. Can you elaborate more on what our students can expect from the career talks in this upcoming year (AY 2021/2022)? 
  
 The postgraduate career advisory team will be organizing a series of workshops throughout the year. There will be Career Development Workshops, Industry Awareness Talks, PG Career Booster Workshops and recruitment events organized throughout the academic year. 
  
@@ -132,7 +126,7 @@ For the rest we are in the process of confirming the dates with the other speake
  
 <br />
 
-### Q10. Lastly, do you have any final words of advice to our postgraduate students?
+### Q09. Lastly, do you have any final words of advice to our postgraduate students?
  
 A postgraduate journey, especially a PhD, can sound very daunting at first.  
 And it is reassuring to be aware that students can always reach out to CFG for support not only in job search, but also in understanding _values_, _interests_, _personalities_, and _skills_, so as to brand their unique selling points (aka USPs) strategically for personal branding.  
@@ -151,4 +145,11 @@ In the words of William Shakespeare, “We know what we are now, but not what we
 Thank you, Dr Koh, for your time!  
 
 We look forward to having these exciting events you mentioned!
+
+<br />
+
+<!-- ### With recent challenges from the COVID-19 crisis, how do you view the job market for our graduate students at SoC? 
+ 
+Despite the COVID-19, growth of the digital economy has definitely accelerated the hiring in the digital related job roles. But such accelerated hiring comes along with new skill sets required in both tech and non-tech industries. With the focus on advanced manufacturing and innovation, there is a race for non-routine connective jobs as well. Especially, Singapore is Asia's leading city for development with our digital infrastructures and pool of talents. The digital landscape will spread across the government corporation’s institution as well as in the start-ups. -->
+ 
 
