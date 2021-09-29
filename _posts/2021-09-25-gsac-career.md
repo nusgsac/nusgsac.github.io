@@ -14,9 +14,13 @@ author: Mark Meng
 
 Looking for a job or internship? Worried about what to do after getting your Masters or PhD degree?
 
-In this article, we go over some useful tips on getting an internship and/or job for SoC graduate students by asking the following questions to the Centre for Future-ready Graduates (CFG), represented by Dr. May Koh: 
+In this article, we go over some useful tips on getting an internship and/or job for SoC graduate students by asking popular questions to the Centre for Future-ready Graduates (CFG), represented by Dr. May Koh.
 
 <a id="qs"></a> 
+
+You can go over the below Q&A in [the "full" video](https://www.youtube.com/watch?v=r1PiEgCLrpo), attached at the end of [the short video](https://www.youtube.com/watch?v=kKNlFsmy9iE) above.
+
+<br />
 
 - [Q1. Can you tell us what the Centre for Future-ready Graduates does?](#q1-can-you-introduce-yourself-and-tell-us-what-the-centre-for-future-ready-graduates-does)
 - [Q2. What are some tech companies that offer jobs or internships for our SoC graduate students? And what kind of opportunities do they offer?](#q2-what-are-some-tech-companies--industries-that-offer-jobs-or-internships-for-our-soc-graduate-students-and-what-kind-of-opportunities-do-they-offer)
@@ -25,9 +29,8 @@ In this article, we go over some useful tips on getting an internship and/or job
 - [Q5. For those who already graduated, how can they look for help in finding full-time jobs or internships?](#q5-for-those-who-already-graduated-how-can-they-look-for-help-in-finding-full-time-jobs-or-internships)
 - [Q6. What should international students be aware of when applying for paid jobs?](#q6-we-have-many-international-students-among-masters-or-phd-students-at-soc-what-should-these-international-students-be-aware-of-when-applying-for-paid-jobs)
 - [Q7. Do we have any career fair specifically targeting SoC graduate students?](#q7-do-we-have-any-career-fair-specifically-targeting-soc-graduate-students-if-so-how-many-career-fairs-are-there-per-year)
-- [Q8. Can you elaborate more on what students can expect from the career talks in this upcoming year (AY 2021/2022)?](#q8-can-you-elaborate-more-on-what-our-students-can-expect-from-the-career-talks-in-this-upcoming-year-ay-20212022)
+- [Q8. What can we expect from the career talks in this academic year (AY 2021/2022)?](#q8-can-you-elaborate-more-on-what-our-students-can-expect-from-the-career-talks-in-this-upcoming-year-ay-20212022)
 - [Q9. Any final words of advice to our postgraduate students?](#q9-lastly-do-you-have-any-final-words-of-advice-to-our-postgraduate-students)
-
 
 <br />
 
