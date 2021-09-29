@@ -14,13 +14,11 @@ author: Mark Meng
 
 Looking for a job or internship? Worried about what to do after getting your Masters or PhD degree?
 
-In this article, we go over some useful tips on getting an internship and/or job for SoC graduate students by asking popular questions to the Centre for Future-ready Graduates (CFG), represented by Dr. May Koh.
-
-<a id="qs"></a> 
+In this article, we go over some useful tips on getting an internship and/or job for SoC graduate students by asking popular questions to the Centre for Future-ready Graduates (CFG), represented by Dr. May Koh. 
 
 You can go over the below Q&A in [the "full" video](https://www.youtube.com/watch?v=r1PiEgCLrpo), attached at the end of [the short video](https://www.youtube.com/watch?v=kKNlFsmy9iE) above.
 
-<br />
+<a id="qs"></a>
 
 - [Q1. Can you tell us what the Centre for Future-ready Graduates does?](#q1-can-you-introduce-yourself-and-tell-us-what-the-centre-for-future-ready-graduates-does)
 - [Q2. What are some tech companies that offer jobs or internships for our SoC graduate students? And what kind of opportunities do they offer?](#q2-what-are-some-tech-companies--industries-that-offer-jobs-or-internships-for-our-soc-graduate-students-and-what-kind-of-opportunities-do-they-offer)
