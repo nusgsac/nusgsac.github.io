@@ -5,7 +5,7 @@ date:   2021-09-25 20:50:50 +0800
 author: Mark Meng
 ---
 
-<iframe width="1170" height="713" src="https://www.youtube.com/embed/kKNlFsmy9iE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/kKNlFsmy9iE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Intro -->
 <!-- To add stuff here -->
@@ -44,15 +44,19 @@ Here you can see tech companies categorized by a range of digital capabilities. 
 
 Based on statistics taken from graduates, a majority of our masters and PhD students end up in IT / ICT industries. Other industries such as Finance and Insurance are pivoting to digitalization (e.g., Fintech, Healthtech, etc.) and hence keen on offering jobs to SoC graduate students.
 
+<!-- ### With recent challenges from the COVID-19 crisis, how do you view the job market for our graduate students at SoC? 
+ 
+Despite the COVID-19, growth of the digital economy has definitely accelerated the hiring in the digital related job roles. But such accelerated hiring comes along with new skill sets required in both tech and non-tech industries. With the focus on advanced manufacturing and innovation, there is a race for non-routine connective jobs as well. Especially, Singapore is Asia's leading city for development with our digital infrastructures and pool of talents. The digital landscape will spread across the government corporation’s institution as well as in the start-ups. -->
+
 <br />
 
-### Q3. Doing an internship during postgraduate study has become popular. How do you view this trend? Does CFG provide any help in finding internships for our students? 
+### Q3. Doing an internship during postgraduate study has become popular. What kind of help does CFG provide in finding internships for our students? 
 
-Taking up an industrial internship is a great way for students to decide if a particular career is a good match to them. During the internship, students can also start to build a professional network that can be a valuable resource during the job search. It is worthy to mention that virtual internships are also becoming more common during this pandemic. 
+Taking up an internship is a great way for students to decide if a particular career is a good match to them. During the internship, students can also start to build a professional network that can be a valuable resource during the job search. It is worthy to mention that virtual internships are also becoming more common during this pandemic. 
 
-At SoC, the current practice for Masters is that internships are taken up during the Special Term or vacation period, generally more uptake during Special Term (May, June, July period) as compared to the December vacation period. Masters students are allowed to take leave of absence for one semester.
+At SoC, the current practice for Masters is that internships are taken up during the _Special Term_ or vacation period, generally more uptake during Special Term (May, June, July period) as compared to the December vacation period. Masters students are allowed to take a leave of absence for one semester.
  
-As for PhD students, there is no fixed timeline, but they are encouraged to go on internships with top research labs for a period up to 6 months. Though this is not compulsory, PhD students are encouraged to go on internships where they will continue to be supported by the School with a paid leave of absence during their internship period. Internships for these PhD students should be aligned to one’s research direction and is usually up to the discretion of the individual PhD supervisors for approval.  
+As for PhD students, there is no fixed timeline. Though this is not compulsory, they are encouraged to go for an internship with top research labs where they will continue to be supported by the School with a paid leave of absence for a period up to 6 months. Internships for these PhD students should be aligned with their research direction and is usually up to the discretion of the supervisors for approval.  
  
 Currently, there is no compulsory requirement for SoC postgraduates (both Masters and PhDs) to take internships. But there will be some new requirements for students on MComp General Track and MSBA. 
  
@@ -60,9 +64,9 @@ For students on the MComp General Track, a new program that started in Jan 2021,
 
 <br />
 
-### Q4. Are there any resources provided by CFG for our students to look for an internship? 
+### Q4. What are some CFG resources that we can use to look for an internship? 
  
-Yes, the default channel is NUS TalentConnect job portal for Masters. For PhD candidates, it is usually through the PhD supervisor, self-sourced by the students and very rarely offered via NUS TalentConnect. 
+The default channel is NUS TalentConnect job portal for Masters. For PhD students, it is usually through the PhD supervisors or self-sourced by the students and very rarely offered via NUS TalentConnect. 
  
 <!-- Insert pic of TalentConnect portal -->
 <figure>
@@ -72,19 +76,7 @@ Yes, the default channel is NUS TalentConnect job portal for Masters. For PhD ca
 
 <br />
 
-### Q5. We have many international students among Masters or PhD students at SoC. What do these international students be aware of when applying for paid jobs? 
- 
-These are [recommended guidelines on CFG’s website](https://nus.edu.sg/cfg/students/jobs-internships/internships/vacation-internship-programme) for students who are interested in taking paid internships.
- 
-Generally, students holding an ICA issued Student Pass (STP) may consider the following options. 
- 
-For paid full-time internships, students are advised to take them during the two term breaks with respect to the NUS academic calendar. This is only applicable to Masters by Coursework students. Masters by Research and PhD students technically do not have vacation and thus can only do part-time with a maximum of 16 hours per week.  
- 
-Students can also choose a paid part-time internship for a maximum of 16 hours during the NUS term.  
-
-<br />
-
-### Q6. For those who already graduated, how can they look for help in finding full-time jobs or internships? 
+### Q5. For those who already graduated, how can they look for help in finding full-time jobs or internships? 
  
 There are two ways. First one is via the school’s website. They can log onto the _NUS TalentConnect_ job portal or keep a look out for weekly emails on the latest job opportunities. Besides _TalentConnect_, full-time enrolled students can also look for part-time work opportunities within NUS via the _NUS Student Work Scheme_ (NSWS) that aims to encourage NUS students to be self-reliant and to gain working experience on campus. For any administrative queries, they should check with the school admin. 
 
@@ -95,6 +87,22 @@ There are two ways. First one is via the school’s website. They can log onto t
 </figure>
 
 On the CFG side, I would like to highlight the career support services. For career advisory, you can also choose to come as a group with your peers if you prefer. And there are regular workshops and advisory sessions as I mentioned earlier.
+
+ 
+<br />
+
+<details>
+    <summary>Read More!</summary>
+
+    ### Q6. We have many international students among Masters or PhD students at SoC. What do these international students be aware of when applying for paid jobs? 
+ 
+    hese are [recommended guidelines on CFG’s website](https://nus.edu.sg/cfg/students/jobs-internships/internships/vacation-internship-programme) for students who are interested in taking paid internships.
+ 
+    Generally, students holding an ICA issued Student Pass (STP) may consider the following options. 
+
+For paid full-time internships, students are advised to take them during the two term breaks with respect to the NUS academic calendar. This is only applicable to Masters by Coursework students. Masters by Research and PhD students technically do not have vacation and thus can only do part-time with a maximum of 16 hours per week.  
+ 
+Students can also choose a paid part-time internship for a maximum of 16 hours during the NUS term.  
 
 <br />
  
@@ -141,15 +149,12 @@ Lastly, stay connected with us by visiting and bookmarking the [CFG webpage](htt
 I am sure that your ‘future’ self will be thanking your ‘now’ self for taking this important step in preparing yourself today for your future career.  
  
 In the words of William Shakespeare, “We know what we are now, but not what we may become.” So be excited as you embark on this adventure of career exploration journey because the career of your dreams may just lie ahead. Thank you, GSAC team, for organising this Q&A session. I hope to e-meet SoC graduate students soon in upcoming career advisory sessions!
- 
+
 Thank you, Dr Koh, for your time!  
 
 We look forward to having these exciting events you mentioned!
 
-<br />
+</details>
 
-<!-- ### With recent challenges from the COVID-19 crisis, how do you view the job market for our graduate students at SoC? 
- 
-Despite the COVID-19, growth of the digital economy has definitely accelerated the hiring in the digital related job roles. But such accelerated hiring comes along with new skill sets required in both tech and non-tech industries. With the focus on advanced manufacturing and innovation, there is a race for non-routine connective jobs as well. Especially, Singapore is Asia's leading city for development with our digital infrastructures and pool of talents. The digital landscape will spread across the government corporation’s institution as well as in the start-ups. -->
- 
+<br />
 
