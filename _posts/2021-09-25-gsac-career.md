@@ -5,7 +5,9 @@ date:   2021-09-25 20:50:50 +0800
 author: Mark Meng
 ---
 
+<p align="center">
 <iframe width="800" height="600" src="https://www.youtube.com/embed/kKNlFsmy9iE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 <!-- Intro -->
 <!-- To add stuff here -->
@@ -29,7 +31,7 @@ Having been an academic researcher myself for over 10 years while serving as a m
 
 <!-- insert image - slide on diverse range of digital capabilities -->
 <figure>
-    <img src="/img/career/digital-cap.png" width="70%" height="70%">
+    <img src="/img/career/digital-cap.png" width="50%" height="50%">
     <!-- <figcaption> . </figcaption> -->
 </figure>
 
@@ -37,8 +39,8 @@ Here you can see tech companies categorized by a range of digital capabilities. 
 
 <!-- Insert a better pic (these 3 graphs together) -->
 <figure>
-    <img src="/img/career/industries-masters.png" width="70%" height="70%">
-    <img src="/img/career/industries-phd.png" width="70%" height="70%">
+    <img src="/img/career/industries-masters.png" width="50%" height="50%">
+    <img src="/img/career/industries-phd.png" width="50%" height="50%">
     <!-- <figcaption> .. </figcaption> -->
 </figure>
 
@@ -70,7 +72,7 @@ The default channel is NUS TalentConnect job portal for Masters. For PhD student
  
 <!-- Insert pic of TalentConnect portal -->
 <figure>
-    <img src="/img/career/talent-connect.png" width="70%" height="70%">
+    <img src="/img/career/talent-connect.png" width="50%" height="50%">
     <figcaption> NUS TalentConnect portal. </figcaption>
 </figure>
 
@@ -82,7 +84,7 @@ There are two ways. First one is via the school’s website. They can log onto t
 
 <!-- Insert pic of NSWS -->
 <figure>
-    <img src="/img/career/nsws.png" width="70%" height="70%">
+    <img src="/img/career/nsws.png" width="50%" height="50%">
     <figcaption> NUS Student Work Scheme aims to encourage NUS students to be self-reliant and to gain working experience in campus. </figcaption>
 </figure>
 
@@ -91,12 +93,12 @@ On the CFG side, I would like to highlight the career support services. For care
  
 <br />
 
-<details>
-    <summary>Read More!</summary>
+<details><summary>Click here to read more!</summary>
+<p>
 
-    ### Q6. We have many international students among Masters or PhD students at SoC. What do these international students be aware of when applying for paid jobs? 
+### Q6. We have many international students among Masters or PhD students at SoC. What do these international students be aware of when applying for paid jobs? 
  
-    hese are [recommended guidelines on CFG’s website](https://nus.edu.sg/cfg/students/jobs-internships/internships/vacation-internship-programme) for students who are interested in taking paid internships.
+These are [recommended guidelines on CFG’s website](https://nus.edu.sg/cfg/students/jobs-internships/internships/vacation-internship-programme) for students who are interested in taking paid internships.
  
     Generally, students holding an ICA issued Student Pass (STP) may consider the following options. 
 
@@ -124,7 +126,7 @@ Below are the confirmed dates for the upcoming workshops for this semester. Seat
 
 <!-- Insert a better pic of confirmed dates (below) -->
 <figure>
-    <img src="/img/career/workshop-dates.png" width="70%" height="70%">
+    <img src="/img/career/workshop-dates.png" width="50%" height="50%">
     <!-- <figcaption> .. </figcaption> -->
 </figure>
 
@@ -154,6 +156,7 @@ Thank you, Dr Koh, for your time!
 
 We look forward to having these exciting events you mentioned!
 
+</p>
 </details>
 
 <br />
