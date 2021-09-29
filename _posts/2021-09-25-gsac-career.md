@@ -16,15 +16,17 @@ Looking for a job or internship? Worried about what to do after getting your Mas
 
 In this article, we go over some useful tips on getting an internship and/or job for SoC graduate students by asking the following questions to the Centre for Future-ready Graduates (CFG), represented by Dr. May Koh: 
 
-- [Q1. Can you tell us what the Centre for Future-ready Graduates does?](#Q1.-Can-you-introduce-yourself-and-tell-us-what-the-Centre-for-Future-ready-Graduates-does?)
-- [Q2. What are some tech companies that offer jobs or internships for our SoC graduate students? And what kind of opportunities do they offer?](#Q2.-What-are-some-tech-companies-/-industries-that-offer-jobs-or-internships-for-our-SoC-graduate-students?-And-what-kind-of-opportunities-do-they-offer?)
-- [Q3. Doing an internship during postgraduate study has become popular. What kind of help does CFG provide in finding internships for our students?](#Q3.-Doing-an-internship-during-postgraduate-study-has-become-popular.-What-kind-of-help-does-CFG-provide-in-finding-internships-for-our-students?)
-- [Q4. What are some CFG resources that we can use to look for an internship? ](#Q4.-What-are-some-CFG-resources-that-we-can-use-to-look-for-an-internship?)
-- [Q5. For those who already graduated, how can they look for help in finding full-time jobs or internships?](Q5.-For-those-who-already-graduated,-how-can-they-look-for-help-in-finding-full-time-jobs-or-internships?)
-- [Q6. We have many international students among Masters or PhD students at SoC. What do these international students be aware of when applying for paid jobs?](#Q6.-We-have-many-international-students-among-Masters-or-PhD-students-at-SoC.-What-do-these-international-students-be-aware-of-when-applying-for-paid-jobs?)
-- [Q7. Do we have any career fair specifically targeting SoC graduate students? If so, how many career fairs are there per year?](#Q7.-Do-we-have-any-career-fair-specifically-targeting-SoC-graduate-students?-If-so,-how-many-career-fairs-are-there-per-year?)
-- [Q8. Can you elaborate more on what our students can expect from the career talks in this upcoming year (AY 2021/2022)?](#Q8.-Can-you-elaborate-more-on-what-our-students-can-expect-from-the-career-talks-in-this-upcoming-year-(AY-2021/2022)?)
-- [Q9. Lastly, do you have any final words of advice to our postgraduate students?](#Q9.-Lastly,-do-you-have-any-final-words-of-advice-to-our-postgraduate-students?)
+<a id="qs"></a> 
+
+- [Q1. Can you tell us what the Centre for Future-ready Graduates does?](#q1-can-you-introduce-yourself-and-tell-us-what-the-centre-for-future-ready-graduates-does)
+- [Q2. What are some tech companies that offer jobs or internships for our SoC graduate students? And what kind of opportunities do they offer?](#q2-what-are-some-tech-companies--industries-that-offer-jobs-or-internships-for-our-soc-graduate-students-and-what-kind-of-opportunities-do-they-offer)
+- [Q3. What kind of help does CFG provide in finding internships for our students?](#q3-doing-an-internship-during-postgraduate-study-has-become-popular-what-kind-of-help-does-cfg-provide-in-finding-internships-for-our-students)
+- [Q4. What are some CFG resources that we can use to look for an internship? ](#q4-what-are-some-cfg-resources-that-we-can-use-to-look-for-an-internship)
+- [Q5. For those who already graduated, how can they look for help in finding full-time jobs or internships?](#q5-for-those-who-already-graduated-how-can-they-look-for-help-in-finding-full-time-jobs-or-internships)
+- [Q6. What should international students be aware of when applying for paid jobs?](#q6-we-have-many-international-students-among-masters-or-phd-students-at-soc-what-should-these-international-students-be-aware-of-when-applying-for-paid-jobs)
+- [Q7. Do we have any career fair specifically targeting SoC graduate students?](#q7-do-we-have-any-career-fair-specifically-targeting-soc-graduate-students-if-so-how-many-career-fairs-are-there-per-year)
+- [Q8. Can you elaborate more on what students can expect from the career talks in this upcoming year (AY 2021/2022)?](#q8-can-you-elaborate-more-on-what-our-students-can-expect-from-the-career-talks-in-this-upcoming-year-ay-20212022)
+- [Q9. Any final words of advice to our postgraduate students?](#q9-lastly-do-you-have-any-final-words-of-advice-to-our-postgraduate-students)
 
 
 <br />
@@ -36,7 +38,9 @@ Hello, I am May Koh, the assigned career advisor for SoC postgraduates from the 
 CFG provides various career advisory sessions and workshops throughout the academic year. In these sessions, we’ll discuss career plans, resume critiques, mock interviews and personal branding to prepare students strategically to land their “dream role” upon graduation. Students can reach out to us on any career related matters through these sessions. We also invite speakers from various industries to talk about strategies targeted for specific career pathways. 
  
 Having been an academic researcher myself for over 10 years while serving as a mentor during my postdoctoral period, I, along with my colleagues at CFG, am always looking for innovative ways to better things for SoC graduate students.
- 
+
+[Back to questions](#qs)
+
 <br />
 
 ### Q2. What are some tech companies / industries that offer jobs or internships for our SoC graduate students? And what kind of opportunities do they offer?
@@ -62,6 +66,8 @@ Based on statistics taken from graduates, a majority of our masters and PhD stud
  
 Despite the COVID-19, growth of the digital economy has definitely accelerated the hiring in the digital related job roles. But such accelerated hiring comes along with new skill sets required in both tech and non-tech industries. With the focus on advanced manufacturing and innovation, there is a race for non-routine connective jobs as well. Especially, Singapore is Asia's leading city for development with our digital infrastructures and pool of talents. The digital landscape will spread across the government corporation’s institution as well as in the start-ups. -->
 
+[Back to questions](#qs)
+
 <br />
 
 ### Q3. Doing an internship during postgraduate study has become popular. What kind of help does CFG provide in finding internships for our students? 
@@ -75,6 +81,8 @@ As for PhD students, there is no fixed timeline. Though this is not compulsory, 
 Currently, there is no compulsory requirement for SoC postgraduates (both Masters and PhDs) to take internships. But there will be some new requirements for students on MComp General Track and MSBA. 
  
 For students on the MComp General Track, a new program that started in Jan 2021, there is an industry capstone which is a compulsory component, and has been designed into the curriculum of this new Master’s program. Students will have to intern for at least 4 months full-time with a local company in Singapore. 
+
+[Back to questions](#qs)
 
 <br />
 
@@ -90,6 +98,8 @@ The default channel is NUS TalentConnect job portal for Masters. For PhD student
 
 <br />
 
+[Back to questions](#qs)
+
 ### Q5. For those who already graduated, how can they look for help in finding full-time jobs or internships? 
  
 There are two ways. First one is via the school’s website. They can log onto the _NUS TalentConnect_ job portal or keep a look out for weekly emails on the latest job opportunities. Besides _TalentConnect_, full-time enrolled students can also look for part-time work opportunities within NUS via the _NUS Student Work Scheme_ (NSWS) that aims to encourage NUS students to be self-reliant and to gain working experience on campus. For any administrative queries, they should check with the school admin. 
@@ -102,18 +112,21 @@ There are two ways. First one is via the school’s website. They can log onto t
 
 On the CFG side, I would like to highlight the career support services. For career advisory, you can also choose to come as a group with your peers if you prefer. And there are regular workshops and advisory sessions as I mentioned earlier.
 
- 
+[Back to questions](#qs)
+
 <br />
 
-### Q6. We have many international students among Masters or PhD students at SoC. What do these international students be aware of when applying for paid jobs? 
+### Q6. We have many international students among Masters or PhD students at SoC. What should these international students be aware of when applying for paid jobs? 
  
 These are [recommended guidelines on CFG’s website](https://nus.edu.sg/cfg/students/jobs-internships/internships/vacation-internship-programme) for students who are interested in taking paid internships.
  
-    Generally, students holding an ICA issued Student Pass (STP) may consider the following options. 
+Generally, students holding an ICA issued Student Pass (STP) may consider the following options. 
 
 For paid full-time internships, students are advised to take them during the two term breaks with respect to the NUS academic calendar. This is only applicable to Masters by Coursework students. Masters by Research and PhD students technically do not have vacation and thus can only do part-time with a maximum of 16 hours per week.  
  
 Students can also choose a paid part-time internship for a maximum of 16 hours during the NUS term.  
+
+[Back to questions](#qs)
 
 <br />
  
@@ -122,7 +135,9 @@ Students can also choose a paid part-time internship for a maximum of 16 hours d
 Yes, we do! There are some major upcoming career fairs. There is so-called Internship Day on the _13th of October_ for those who are seeking internship opportunities. The postgraduate career fair this year will be held on _27th of October_, which will be focusing on jobs targeted towards postgraduates, and then there will be this **Career Fest 2022** which will be held in _January 2022_. 
  
 Each career fair will have a series of pre-fair webinars and events to make sure students keep a lookout on this. In fact, we have hosted more than 600 events a year from emerging companies, multinational corporations, homegrown heroes as well as the public sector. The numbers are higher than usual due to COVID-19, and the events are virtual. If you are seeking job opportunities in any of these companies and industries, join these events to learn more about how to prepare yourself and make useful networks. Check out our CFG events calendar for the upcoming events  
- 
+
+[Back to questions](#qs)
+
 <br />
 
 ### Q8. Can you elaborate more on what our students can expect from the career talks in this upcoming year (AY 2021/2022)?
@@ -142,7 +157,9 @@ Below are the confirmed dates for the upcoming workshops for this semester. Seat
 These are the two upcoming confirmed dates for the postgraduate industry awareness workshops. This is the career booster series that are open to the wider and NUS population, including undergraduates and postgraduates for you to learn about advanced interview techniques and workplace skills. The workshops will cover three main themes: advanced interview and assessment skills, industry insiders and workplace success skills.
  
 For the rest we are in the process of confirming the dates with the other speakers so do keep a lookout for more information and registration links in your emails. 
- 
+
+[Back to questions](#qs)
+
 <br />
 
 ### Q9. Lastly, do you have any final words of advice to our postgraduate students?
@@ -154,16 +171,18 @@ When at an interview, having a personal branding would translate to: **_“Why m
  
 Keep an open mind with your options open and be updated on the emerging industry trends. That means if you are a student from STEM, it does not mean that you need to end up doing a STEM role. At CFG, we organise regular talks with industry partners who provide insights into the industry, specific job roles, and the organization’s work culture. This is one of the many avenues to tap into if you want to stay in the known for potential opportunities on the latest employment landscape.   
  
-In addition to reaching out for a career advisory session with me, students may also wish to explore the _NUS Career+_ App that can help them plan their education, build their skills profile, and develop their career pathway. After establishing your USPs, start networking early to build your social capital since relationships need to be nurtured and you will be able to harvest the “fruits” when you are ready to embark on your job search journey at the end of your studies. “_conNectUS_” is a new professional networking platform that helps the NUS community to connect with other students and AlumNUS to share ideas, and acquire insights and opportunities. 
+In addition to reaching out for a career advisory session with me, students may also wish to explore the _NUS Career+_ App that can help them plan their education, build their skills profile, and develop their career pathway. After establishing your USPs, start networking early to build your social capital since relationships need to be nurtured and you will be able to harvest the “fruits” when you are ready to embark on your job search journey at the end of your studies. _conNectUS_ is a new professional networking platform that helps the NUS community to connect with other students and AlumNUS to share ideas, and acquire insights and opportunities. 
  
 Lastly, stay connected with us by visiting and bookmarking the [CFG webpage](https://nus.edu.sg/cfg/) and keep a look out for upcoming career-related events on our events calendar and weekly emails for job alerts. 
 I am sure that your ‘future’ self will be thanking your ‘now’ self for taking this important step in preparing yourself today for your future career.  
  
-In the words of William Shakespeare, “We know what we are now, but not what we may become.” So be excited as you embark on this adventure of career exploration journey because the career of your dreams may just lie ahead. Thank you, GSAC team, for organising this Q&A session. I hope to e-meet SoC graduate students soon in upcoming career advisory sessions!
+In the words of William Shakespeare, “_We know what we are now, but not what we may become._” So be excited as you embark on this adventure of career exploration journey because the career of your dreams may just lie ahead. Thank you, GSAC team, for organising this Q&A session. I hope to e-meet SoC graduate students soon in upcoming career advisory sessions!
 
 Thank you, Dr Koh, for your time!  
 
 We look forward to having these exciting events you mentioned!
+
+[Back to questions](#qs)
 
 <br />
 
