@@ -13,7 +13,19 @@ author: Mark Meng
 <!-- To add stuff here -->
 
 Looking for a job or internship? Worried about what to do after getting your Masters or PhD degree?
-In this article, we go over some useful tips on getting an internship and/or job for SoC graduate students by asking some popular questions to the Centre for Future-ready Graduates, represented by Dr. May Koh. 
+
+In this article, we go over some useful tips on getting an internship and/or job for SoC graduate students by asking the following questions to the Centre for Future-ready Graduates (CFG), represented by Dr. May Koh: 
+
+- [Q1. Can you tell us what the Centre for Future-ready Graduates does?](#Q1.-Can-you-introduce-yourself-and-tell-us-what-the-Centre-for-Future-ready-Graduates-does?)
+- [Q2. What are some tech companies that offer jobs or internships for our SoC graduate students? And what kind of opportunities do they offer?](#Q2.-What-are-some-tech-companies-/-industries-that-offer-jobs-or-internships-for-our-SoC-graduate-students?-And-what-kind-of-opportunities-do-they-offer?)
+- [Q3. Doing an internship during postgraduate study has become popular. What kind of help does CFG provide in finding internships for our students?](#Q3.-Doing-an-internship-during-postgraduate-study-has-become-popular.-What-kind-of-help-does-CFG-provide-in-finding-internships-for-our-students?)
+- [Q4. What are some CFG resources that we can use to look for an internship? ](#Q4.-What-are-some-CFG-resources-that-we-can-use-to-look-for-an-internship?)
+- [Q5. For those who already graduated, how can they look for help in finding full-time jobs or internships?](Q5.-For-those-who-already-graduated,-how-can-they-look-for-help-in-finding-full-time-jobs-or-internships?)
+- [Q6. We have many international students among Masters or PhD students at SoC. What do these international students be aware of when applying for paid jobs?](#Q6.-We-have-many-international-students-among-Masters-or-PhD-students-at-SoC.-What-do-these-international-students-be-aware-of-when-applying-for-paid-jobs?)
+- [Q7. Do we have any career fair specifically targeting SoC graduate students? If so, how many career fairs are there per year?](#Q7.-Do-we-have-any-career-fair-specifically-targeting-SoC-graduate-students?-If-so,-how-many-career-fairs-are-there-per-year?)
+- [Q8. Can you elaborate more on what our students can expect from the career talks in this upcoming year (AY 2021/2022)?](#Q8.-Can-you-elaborate-more-on-what-our-students-can-expect-from-the-career-talks-in-this-upcoming-year-(AY-2021/2022)?)
+- [Q9. Lastly, do you have any final words of advice to our postgraduate students?](#Q9.-Lastly,-do-you-have-any-final-words-of-advice-to-our-postgraduate-students?)
+
 
 <br />
 
@@ -93,9 +105,6 @@ On the CFG side, I would like to highlight the career support services. For care
  
 <br />
 
-<details><summary>Click here to read more!</summary>
-<p>
-
 ### Q6. We have many international students among Masters or PhD students at SoC. What do these international students be aware of when applying for paid jobs? 
  
 These are [recommended guidelines on CFG’s website](https://nus.edu.sg/cfg/students/jobs-internships/internships/vacation-internship-programme) for students who are interested in taking paid internships.
@@ -116,7 +125,7 @@ Each career fair will have a series of pre-fair webinars and events to make sure
  
 <br />
 
-### Q8. Can you elaborate more on what our students can expect from the career talks in this upcoming year (AY 2021/2022)? 
+### Q8. Can you elaborate more on what our students can expect from the career talks in this upcoming year (AY 2021/2022)?
  
 The postgraduate career advisory team will be organizing a series of workshops throughout the year. There will be Career Development Workshops, Industry Awareness Talks, PG Career Booster Workshops and recruitment events organized throughout the academic year. 
  
@@ -136,7 +145,7 @@ For the rest we are in the process of confirming the dates with the other speake
  
 <br />
 
-### Q09. Lastly, do you have any final words of advice to our postgraduate students?
+### Q9. Lastly, do you have any final words of advice to our postgraduate students?
  
 A postgraduate journey, especially a PhD, can sound very daunting at first.  
 And it is reassuring to be aware that students can always reach out to CFG for support not only in job search, but also in understanding _values_, _interests_, _personalities_, and _skills_, so as to brand their unique selling points (aka USPs) strategically for personal branding.  
@@ -155,9 +164,6 @@ In the words of William Shakespeare, “We know what we are now, but not what we
 Thank you, Dr Koh, for your time!  
 
 We look forward to having these exciting events you mentioned!
-
-</p>
-</details>
 
 <br />
 
