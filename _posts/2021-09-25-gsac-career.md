@@ -103,7 +103,7 @@ The default channel is NUS TalentConnect job portal for Masters. For PhD student
 
 ### Q5. For those who already graduated, how can they look for help in finding full-time jobs or internships? 
  
-There are two ways. First one is via the school’s website. They can log onto the _NUS TalentConnect_ job portal or keep a look out for weekly emails on the latest job opportunities. Besides _TalentConnect_, full-time enrolled students can also look for part-time work opportunities within NUS via the _NUS Student Work Scheme_ (NSWS) that aims to encourage NUS students to be self-reliant and to gain working experience on campus. For any administrative queries, they should check with the school admin. 
+There are two ways. First one is via school’s website. Students can log onto the _NUS TalentConnect_ job portal or keep a look out for weekly emails on the latest job opportunities. Besides _TalentConnect_, full-time enrolled students can also look for part-time work opportunities within NUS via the _NUS Student Work Scheme (NSWS)_ that aims to encourage NUS students to be self-reliant and to gain working experience on campus. For any administrative queries, they should check with the school admin. 
 
 <!-- Insert pic of NSWS -->
 <figure>
@@ -111,7 +111,7 @@ There are two ways. First one is via the school’s website. They can log onto t
     <figcaption> NUS Student Work Scheme aims to encourage NUS students to be self-reliant and to gain working experience in campus. </figcaption>
 </figure>
 
-On the CFG side, I would like to highlight the career support services. For career advisory, you can also choose to come as a group with your peers if you prefer. And there are regular workshops and advisory sessions as I mentioned earlier.
+On the CFG side, I would like to highlight the career support services. For career advisory, students can also choose to come as a group with their peers if they prefer. And there are regular workshops and advisory sessions as I mentioned earlier.
 
 [Back to questions](#qs)
 
@@ -121,9 +121,9 @@ On the CFG side, I would like to highlight the career support services. For care
  
 These are [recommended guidelines on CFG’s website](https://nus.edu.sg/cfg/students/jobs-internships/internships/vacation-internship-programme) for students who are interested in taking paid internships.
  
-Generally, students holding an ICA issued Student Pass (STP) may consider the following options. 
+Generally, students holding an ICA-issued Student Pass (STP) may consider the following options. 
 
-For paid full-time internships, students are advised to take them during the two term breaks with respect to the NUS academic calendar. This is only applicable to Masters by Coursework students. Masters by Research and PhD students technically do not have vacation and thus can only do part-time with a maximum of 16 hours per week.  
+For full-time paid internships, students are advised to take them during the two term breaks with respect to the NUS academic calendar. This is only applicable to Masters by Coursework students. Masters by Research and PhD students technically do not have any vacation and thus can only do part-time with a maximum of 16 hours per week.  
  
 Students can also choose a paid part-time internship for a maximum of 16 hours during the NUS term.  
 
@@ -133,9 +133,9 @@ Students can also choose a paid part-time internship for a maximum of 16 hours d
  
 ### Q7. Do we have any career fair specifically targeting SoC graduate students? If so, how many career fairs are there per year? 
  
-Yes, we do! There are some major upcoming career fairs. There is so-called Internship Day on the _13th of October_ for those who are seeking internship opportunities. The postgraduate career fair this year will be held on _27th of October_, which will be focusing on jobs targeted towards postgraduates, and then there will be this **Career Fest 2022** which will be held in _January 2022_. 
+Yes, we do! There are some major upcoming career fairs. There is so-called **Internship Day** on the _13th of October_ for those who are seeking internship opportunities. The postgraduate career fair this year will be held on _27th of October_, which will be focusing on jobs targeted towards postgraduates, and then there will be this **Career Fest 2022** which will be held in _January 2022_. 
  
-Each career fair will have a series of pre-fair webinars and events to make sure students keep a lookout on this. In fact, we have hosted more than 600 events a year from emerging companies, multinational corporations, homegrown heroes as well as the public sector. The numbers are higher than usual due to COVID-19, and the events are virtual. If you are seeking job opportunities in any of these companies and industries, join these events to learn more about how to prepare yourself and make useful networks. Check out our CFG events calendar for the upcoming events  
+Each career fair will have a series of pre-fair webinars and events to make sure students keep a lookout on this. In fact, we have hosted more than 600 events a year from emerging companies, multinational corporations, homegrown heroes as well as the public sector. The numbers are higher than usual due to COVID-19, and the events are virtual. If you are seeking job opportunities in any of these companies and industries, join these events to learn more about how to prepare yourself and make useful networks. Check out our [CFG events calendar](https://nus.edu.sg/cfg/events) for the upcoming events.  
 
 [Back to questions](#qs)
 
@@ -143,11 +143,11 @@ Each career fair will have a series of pre-fair webinars and events to make sure
 
 ### Q8. Can you elaborate more on what our students can expect from the career talks in this upcoming year (AY 2021/2022)?
  
-The postgraduate career advisory team will be organizing a series of workshops throughout the year. There will be Career Development Workshops, Industry Awareness Talks, PG Career Booster Workshops and recruitment events organized throughout the academic year. 
+The postgraduate career advisory team will be organizing a series of workshops throughout the year. There will be _Career Development Workshops_, _Industry Awareness Talks_, _PG Career Booster Workshops_ and recruitment events organized throughout the academic year. 
  
-Students can start attending this career development workshops and industry awareness workshop as early as your first semester, to get started on their resume and LinkedIn profile, as well as to start thinking about the industry that they may wish to enter. From the second semester, students can start attending career booster workshops to hone their soft skills and join recruitment events to find out the technical skills and soft skills required to perform the role that they may be interested in. This will give students the time to work on any gaps. 
+Students can start attending this career development workshops and industry awareness workshop as early as their first semester to get started on their resume and LinkedIn profile, as well as to start thinking about the industry that they may wish to enter. From the second semester, students can start attending career booster workshops to hone their soft skills and join recruitment events to find out the technical skills and soft skills required to perform the role that they may be interested in. This will give students the time to work on any gaps. 
  
-Below are the confirmed dates for the upcoming workshops for this semester. Seats are limited, so please look out for the emails from myself for the registration links!
+Below are the confirmed dates of the upcoming workshops for this semester. Seats are limited, so please look out for the emails from myself for the registration links!
 
 <!-- Insert a better pic of confirmed dates (below) -->
 <figure>
@@ -155,9 +155,9 @@ Below are the confirmed dates for the upcoming workshops for this semester. Seat
     <!-- <figcaption> .. </figcaption> -->
 </figure>
 
-These are the two upcoming confirmed dates for the postgraduate industry awareness workshops. This is the career booster series that are open to the wider and NUS population, including undergraduates and postgraduates for you to learn about advanced interview techniques and workplace skills. The workshops will cover three main themes: advanced interview and assessment skills, industry insiders and workplace success skills.
+We recently had two postgraduate industry awareness workshops: with [Grab](https://www.grab.com/sg/) on Aug 20 and with [Shopee](https://shopee.sg/) on Aug 27. This is the career booster series that are open to the wider NUS population, including undergraduates as well as postgraduates, to learn about advanced interview techniques and workplace skills. The workshops covered three main themes: advanced interview and assessment skills, industry insiders and workplace success skills.
  
-For the rest we are in the process of confirming the dates with the other speakers so do keep a lookout for more information and registration links in your emails. 
+For the rest we are in the process of confirming the dates with other speakers so do keep a lookout for more information and registration links in your emails. 
 
 [Back to questions](#qs)
 
@@ -166,13 +166,13 @@ For the rest we are in the process of confirming the dates with the other speake
 ### Q9. Lastly, do you have any final words of advice to our postgraduate students?
  
 A postgraduate journey, especially a PhD, can sound very daunting at first.  
-And it is reassuring to be aware that students can always reach out to CFG for support not only in job search, but also in understanding _values_, _interests_, _personalities_, and _skills_, so as to brand their unique selling points (aka USPs) strategically for personal branding.  
+And it is reassuring to be aware that students can always reach out to CFG for support not only in job search, but also in understanding _values_, _interests_, _personalities_, and _skills_, so as to brand their unique selling points (aka _USPs_) strategically for personal branding.  
  
 When at an interview, having a personal branding would translate to: **_“Why must it only be you and not the other candidates that came before or after you?”_** Understanding who you are and what you want is important before you begin your job search because this means that you will be happier in your future role when your values are aligned.  
  
 Keep an open mind with your options open and be updated on the emerging industry trends. That means if you are a student from STEM, it does not mean that you need to end up doing a STEM role. At CFG, we organise regular talks with industry partners who provide insights into the industry, specific job roles, and the organization’s work culture. This is one of the many avenues to tap into if you want to stay in the known for potential opportunities on the latest employment landscape.   
  
-In addition to reaching out for a career advisory session with me, students may also wish to explore the _NUS Career+_ App that can help them plan their education, build their skills profile, and develop their career pathway. After establishing your USPs, start networking early to build your social capital since relationships need to be nurtured and you will be able to harvest the “fruits” when you are ready to embark on your job search journey at the end of your studies. _conNectUS_ is a new professional networking platform that helps the NUS community to connect with other students and AlumNUS to share ideas, and acquire insights and opportunities. 
+In addition to reaching out for a career advisory session with me, students may also wish to explore the [NUS Career+ App](https://nus.edu.sg/cfg/students/jobs-internships/nus-career-plus) that can help them plan their education, build their skills profile, and develop their career pathway. After establishing your USPs, start networking early to build your social capital since relationships need to be nurtured and you will be able to harvest the “fruits” when you are ready to embark on your job search journey at the end of your studies. [conNectUS](https://connectus.nus.edu.sg/) is a new professional networking platform that helps the NUS community to connect with other students and AlumNUS to share ideas, and acquire insights and opportunities. 
  
 Lastly, stay connected with us by visiting and bookmarking the [CFG webpage](https://nus.edu.sg/cfg/) and keep a look out for upcoming career-related events on our events calendar and weekly emails for job alerts. 
 I am sure that your ‘future’ self will be thanking your ‘now’ self for taking this important step in preparing yourself today for your future career.  
