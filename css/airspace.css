@@ -259,6 +259,45 @@ Join us styles
   margin-top: 30px;
 }
 /*--
+	Events Start
+--*/
+#events {
+  background: url("../img/events-bg1.png");
+  background-position: 50% 94px;
+  width: 100%;
+  display: block;
+  position: relative;
+  overflow: visible;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #fff;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  padding: 100px 0;
+}
+#events h2 {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+#events p {
+  color: #8d8f92;
+  margin-bottom: 20px;
+}
+#events .btn-view-works {
+  background: #655e7a;
+  color: #fff;
+  padding: 10px 20px;
+}
+/*--
 	Feature Start
 --*/
 #feature {
