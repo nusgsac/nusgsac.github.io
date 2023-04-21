@@ -569,11 +569,12 @@ Join us styles
 }
 #global-header .block h1 {
   font-weight: 100;
-  font-size: 45px;
-  letter-spacing: 6px;
+  font-size: 50px;
+  letter-spacing: 3px;
   padding-bottom: 15px;
   margin-top: 0;
   text-transform: capitalize;
+  font-family: 'Tisa Sans Pro', sans-serif;
 }
 #global-header .block p {
   font-size: 16px;
