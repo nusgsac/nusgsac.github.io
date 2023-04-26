@@ -39,6 +39,27 @@ $(document).ready(function() {
 });
 </script>
 
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+<script type="text/javascript">
+    (function() {
+        // https://dashboard.emailjs.com/admin/account
+        emailjs.init('-q3b3diP-sG5VUzM5');
+    })();
+</script>
+<script type="text/javascript">
+    window.onload = function() {
+        document.getElementsByTagName('form')[1].addEventListener('submit', function(event) {
+            event.preventDefault();
+            // these IDs from the previous steps
+            emailjs.sendForm('service_gppsiht', 'template_gfco5uv', document.getElementsByTagName('form')[0]).then(emailjs.sendForm('service_gppsiht', 'template_gfco5uv', document.getElementsByTagName('form')[1])).then(function() {
+                    console.log('SUCCESS!');
+                }, function(error) {
+                    console.log('FAILED...', error);
+                });
+        });
+    }
+</script>
+
 
 <!--
 /*
