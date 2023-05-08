@@ -84,6 +84,14 @@ body {
   padding: 0;
 }
 
+.owli-carousel img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+
 .owli-item:nth-child(2n) {
   background: #bd0000;
 }

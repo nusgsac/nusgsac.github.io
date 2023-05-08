@@ -542,7 +542,8 @@ Join us styles
 	Slider-work Start
 --*/
 #global-header {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/slider-bg.png") no-repeat;
+  background-position: center;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -569,7 +570,7 @@ Join us styles
 }
 #global-header .block h1 {
   font-weight: 100;
-  font-size: 50px;
+  font-size: 30px;
   letter-spacing: 3px;
   padding-bottom: 15px;
   margin-top: 0;
