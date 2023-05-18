@@ -9,6 +9,12 @@
   status: present
   calendar_link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjNpcTRsam51ZmU3YzBodW5oOGpoZG42cTJfMjAyMzA1MjZUMDkwMDAwWiBncmFkc29mc29jQG0&tmsrc=gradsofsoc%40gmail.com"
 
+- date: "2023-06-09"
+  title: "3rd Biweekly Social Hour"
+  description: "Come to our third Biweekly Social Hour at COM3 Student Lounge, 5-6pm."
+  status: present
+  calendar_link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjNpcTRsam51ZmU3YzBodW5oOGpoZG42cTJfMjAyMzA2MDlUMDkwMDAwWiBncmFkc29mc29jQG0&tmsrc=gradsofsoc%40gmail.com"
+
 - date: "2021-09-25"
   title: "GSAC Chat Series: Internship & Career Planning with Dr. May Koh, CFG"
   description: "Join us for a chat series on internship and career planning with Dr. May Koh from CFG."
