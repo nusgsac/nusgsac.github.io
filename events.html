@@ -1,0 +1,173 @@
+---
+layout: page
+title: Events 
+permalink: /events/
+---
+
+<section id="global-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+			<h1 class="animated fadeInUp"> Events Calendar </h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+  <style>
+    /* CSS styles here */
+
+    .column {
+      float: left;
+      width: 75%;
+    }
+
+    .column-left {
+      width: 75%;
+    }
+
+    .column-right {
+      width: 25%;
+    }
+
+   .tabs {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+
+    .tab {
+      cursor: pointer;
+      padding: 8px 16px;
+      background-color: #f1f1f1;
+      border: 1px solid #ccc;
+      border-bottom: none;
+      border-radius: 5px 5px 0 0;
+      transition: background-color 0.3s;
+    }
+
+    .tabcontent {
+      display: none;
+      padding: 20px;
+      background-color: white;
+      clear: both;
+    }
+
+    .event-list {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .event-item {
+      background-color: #f5f5f5;
+      border-radius: 5px;
+      padding: 10px;
+      margin-bottom: 10px; 
+    }
+
+    .event-date {
+      font-weight: bold;
+    }
+
+    .event-title {
+      font-size: 18px;
+      margin-bottom: 5px; 
+    }
+
+    .event-description {
+      line-height: 1.2; 
+    }
+
+    .add-to-calendar {
+      display: inline-block;
+      margin-top: 5px;
+    }
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.2/fullcalendar.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.2/fullcalendar.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('#calendar').fullCalendar({
+        header: {
+          left: 'prev,next today',
+          center: 'title',
+          right: 'month,agendaWeek,agendaDay'
+        },
+        events: [
+          {% for event in site.data.events %}
+          {
+            title: '{{ event.title }}',
+            start: '{{ event.date }}',
+            url: '{{ event.calendar_link }}'
+          },
+          {% endfor %}
+        ]
+      });
+    });
+  </script>
+  <script>
+    function openTab(tabName) {
+      var i, tabcontent, tablinks;
+      tabcontent = document.getElementsByClassName("tabcontent");
+      for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+      }
+      tablinks = document.getElementsByClassName("tab");
+      for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+      }
+      document.getElementById(tabName).style.display = "block";
+      event.currentTarget.className += " active";
+    }
+    
+    document.addEventListener("DOMContentLoaded", function() {
+      // Set the default tab and content to display
+      document.getElementById("present-events").style.display = "block";
+      document.getElementsByClassName("tab")[0].className += " active";
+    });
+  </script>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7 col-sm-12">
+        <div class="tabs">
+          <div class="tab" onclick="openTab('present-events')">Present Events</div>
+          <div class="tab" onclick="openTab('past-events')">Past Events</div>
+        </div>
+        <div id="present-events" class="tabcontent">
+          <ul class="event-list">
+            {% for event in site.data.events %}
+            {% if event.status == "present" %}
+            <li class="event-item">
+              <span class="event-date">Date: {{ event.date }}</span><br>
+              <span class="event-title">Title: {{ event.title }}</span><br>
+              <span class="event-description">{{ event.description }}</span><br>
+              <a class="add-to-calendar" href="{{ event.calendar_link }}" target="_blank">Add to Calendar</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+        <div id="past-events" class="tabcontent">
+          <ul class="event-list">
+            {% for event in site.data.events %}
+            {% if event.status == "past" %}
+            <li class="event-item">
+              <span class="event-date">Date: {{ event.date }}</span><br>
+              <span class="event-title">Title: {{ event.title }}</span><br>
+              <span class="event-description">{{ event.description }}</span><br>
+              <a class="add-to-calendar" href="{{ event.calendar_link }}" target="_blank">Add to Calendar</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-5 col-sm-12">
+        <div id="calendar"></div>
+      </div> 
+    </div>
+  </div>
