@@ -82,15 +82,23 @@ body {
 .owli-carousel {
   list-style: none;
   padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.owli-carousel li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .owli-carousel img {
-  display: block;
-  width: 100%;
-  height: auto;
+  max-width: 100%;
+  max-height: 500px;
+  object-fit: contain;
+  margin: auto;
 }
-
-
 
 .owli-item:nth-child(2n) {
   background: #bd0000;
@@ -105,5 +113,3 @@ body {
   width: 100%;
   height: auto;
 }
-i
-
